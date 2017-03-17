@@ -7,11 +7,11 @@ Votre responsable vous demande de constituer une base de données de tout le per
 La RH, à partir de son logiciel, vous fournit (à chaque mouvement/changement dans la société) un export au format CSV de tout le personnel, sur le modèle suivant : https://github.com/JerGet/Python/personnels.csv
 
 Les utilisateurs devront :
-- [ ] posséder un identifiant unique et stable
+- [X] posséder un identifiant unique et stable
 - [ ] avoir un mot de passe aléatoire généré et stocké de manière sécurisée
-- [ ] avoir une appartenance au groupe de leur département (comptabilité, etc.)
-- [ ] être mis à jour s'ils changent de groupe ou de nom
-- [ ] pouvoir être mis à jour sans devoir leur créer un nouveau compte ou réinitialiser l'existant
+- [X] avoir une appartenance au groupe de leur département (comptabilité, etc.)
+- [X] être mis à jour s'ils changent de groupe ou de nom
+- [X] pouvoir être mis à jour sans devoir leur créer un nouveau compte ou réinitialiser l'existant
 - [ ] être supprimé lorsqu'ils ont quitté l'entreprise
 
 ## Consignes
